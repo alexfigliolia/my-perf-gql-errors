@@ -52,6 +52,6 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/alexfigliolia/my-performance-clients#readme",
-  "repository": "https://github.com/alexfigliolia/my-performance-clients.git"
+  "homepage": "https://github.com/alexfigliolia/my-perf-gql-errors#readme",
+  "repository": "https://github.com/alexfigliolia/my-perf-gql-errors.git"
 }
